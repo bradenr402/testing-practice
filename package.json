@@ -1,0 +1,14 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "This is my solution for the Project: Weather App in The Odin Project’s Javascript Course. Find it at https://www.theodinproject.com/lessons/javascript-testing-practice.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
